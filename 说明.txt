@@ -6,3 +6,5 @@
 3.前端常用插件汇总
 	https://blog.csdn.net/qq_25243451/article/details/78685657
 	https://blog.csdn.net/cddcj/article/details/52193932
+
+4.JQuery 插件庫 http://www.jq22.com/
