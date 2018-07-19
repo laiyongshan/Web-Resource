@@ -1,2 +1,4 @@
 1.swiper.js  官方地址：http://www.idangero.us/swiper
 中文地址：http://www.swiper.com.cn
+
+2.Web 前端第三方插件 https://www.cnblogs.com/kingboy2008/p/7808284.html
